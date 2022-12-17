@@ -1,2 +1,3 @@
-const apis = 'apis'
-console.log(apis)
+let a;
+a = "a";
+console.log(a);
