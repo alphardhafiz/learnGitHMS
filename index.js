@@ -1,5 +1,1 @@
-const a = (a, b) => {
-  console.log(`${a} dan ${b}`);
-};
-
-a("tes", "coba");
+console.log("belajar uploud file");
