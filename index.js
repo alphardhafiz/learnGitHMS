@@ -1,3 +1,5 @@
-let a;
-a = "a";
-console.log(a);
+const a = (a, b) => {
+  console.log(`${a} dan ${b}`);
+};
+
+a("tes", "coba");
