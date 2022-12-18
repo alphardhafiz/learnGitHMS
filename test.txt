@@ -1,5 +1,8 @@
 halo hari senin saya tidak
 tess
-masukkan kalimat
 baru untuk 
 test merging
+git rebase test
+belajar rebase
+hari ini
+hasil dari push di remote repo
